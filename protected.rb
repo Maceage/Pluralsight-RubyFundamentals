@@ -26,3 +26,4 @@ ship = Spaceship.new
 fast_ship = SpritelySpaceship.new
 
 puts fast_ship.call_sign_matches?(ship)
+#puts ship.call_sign
